@@ -1,0 +1,1 @@
+# DynamoDBExports_wywozy_dzielnica
